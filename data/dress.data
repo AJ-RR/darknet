@@ -2,4 +2,4 @@ classes=5
 train=/content/darknet/data/dress_train.txt
 valid=/content/darknet/data/dress_test.txt
 names=/content/darknet/data/dress.names
-backup=/content/drive/My Drive/yolo-tiny-backups/
+backup=/content/drive/My Drive/yolo/yolo-tiny-backup/
